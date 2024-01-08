@@ -1,4 +1,4 @@
-# EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
+![Screenshot 2023-12-24 210620](https://github.com/sowmii76/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/146059163/504a84ee-bb10-4a42-b16f-cb7ddeb582a2)# EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
 ## DATE:
 
 ## AIM: 
@@ -37,8 +37,10 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+![Screenshot 2023-12-24 210620](https://github.com/sowmii76/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/146059163/3a760a1f-d91d-499d-9866-fabfc0b76591)
 
 ## RESULT:
+
 Thus, the given 3D model is converted into orthographic view.
 
 
